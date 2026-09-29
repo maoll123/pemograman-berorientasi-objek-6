@@ -1,0 +1,11 @@
+# Compiled Java Class Files
+bin/
+*.class
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
